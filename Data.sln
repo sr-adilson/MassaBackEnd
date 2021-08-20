@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31424.327
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data", "Data\Data.csproj", "{3E95D1B5-74DF-4BC0-8EA2-2375AD740864}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Data", "Data\Data.csproj", "{3E95D1B5-74DF-4BC0-8EA2-2375AD740864}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MassaApi", "MassaApi\MassaApi.csproj", "{57CF98A4-BDF8-423F-9847-F67D170B246B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{3E95D1B5-74DF-4BC0-8EA2-2375AD740864}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3E95D1B5-74DF-4BC0-8EA2-2375AD740864}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3E95D1B5-74DF-4BC0-8EA2-2375AD740864}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57CF98A4-BDF8-423F-9847-F67D170B246B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57CF98A4-BDF8-423F-9847-F67D170B246B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57CF98A4-BDF8-423F-9847-F67D170B246B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57CF98A4-BDF8-423F-9847-F67D170B246B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
